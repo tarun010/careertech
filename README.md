@@ -9,7 +9,8 @@ A straightforward and lightweight to-do list application built using pure HTML, 
 - Delete tasks
 
 ## Diagram
-<img width="344" alt="screenshot" src="https://github.com/tarun010/careertech/assets/25506296/4b0f3974-ffb7-402d-99fb-7d5a5042965e">
+[comment]: <>(<img width="344" alt="screenshot" src="https://github.com/tarun010/careertech/assets/25506296/4b0f3974-ffb7-402d-99fb-7d5a5042965e">)
+[Diagram](./screenshot.png)
 
 
 
