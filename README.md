@@ -9,7 +9,7 @@ A straightforward and lightweight to-do list application built using pure HTML, 
 - Delete tasks
 
 ## Diagram
-[Diagram](./screenshot.png)
+
 
 
 ## Getting Started
