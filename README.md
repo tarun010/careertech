@@ -1,6 +1,7 @@
 # Simple To-Do List App
 
 A straightforward and lightweight to-do list application built using pure HTML, CSS, and JavaScript. No frameworks, no libraries; just simple code.
+Link: [tarun010.github.io/careertech](https://tarun010.github.io/careertech/)
 
 ## Features
 
